@@ -1,0 +1,11 @@
+﻿  Camera.cpp
+C:\Users\Owner\Downloads\RayTracer\RayTracer\MCG_GFX_Framework\src\Camera.h(3,10): fatal  error C1083: Cannot open include file: 'GLM/glm.hpp': No such file or directory
+  Main.cpp
+C:\Users\Owner\Downloads\RayTracer\RayTracer\MCG_GFX_Framework\src\Ray.h(2,10): fatal  error C1083: Cannot open include file: 'GLM/glm.hpp': No such file or directory
+  MCG_GFX_Lib.cpp
+C:\Users\Owner\Downloads\RayTracer\RayTracer\MCG_GFX_Framework\src\MCG_GFX_Lib.cpp(2,10): fatal  error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Sphere.cpp
+C:\Users\Owner\Downloads\RayTracer\RayTracer\MCG_GFX_Framework\src\Ray.h(2,10): fatal  error C1083: Cannot open include file: 'GLM/glm.hpp': No such file or directory
+  Tracer.cpp
+C:\Users\Owner\Downloads\RayTracer\RayTracer\MCG_GFX_Framework\src\Ray.h(2,10): fatal  error C1083: Cannot open include file: 'GLM/glm.hpp': No such file or directory
+  Generating Code...

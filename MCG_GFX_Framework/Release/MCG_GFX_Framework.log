@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\Owner\Downloads\RayTracer\RayTracer\MCG_GFX_Framework\src\Main.cpp(47,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Downloads\RayTracer\RayTracer\MCG_GFX_Framework\src\Main.cpp(55,29): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  3 of 385 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MCG_GFX_Framework.vcxproj -> C:\Users\Owner\Downloads\RayTracer\RayTracer\Release\MCG_GFX_Framework.exe

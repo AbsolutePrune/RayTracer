@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Owner\Downloads\RayTracer\RayTracer\MCG_GFX_Framework\src\Main.cpp(47,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Downloads\RayTracer\RayTracer\MCG_GFX_Framework\src\Main.cpp(55,29): warning C4018: '<': signed/unsigned mismatch
+  MCG_GFX_Framework.vcxproj -> C:\Users\Owner\Downloads\RayTracer\RayTracer\Debug\MCG_GFX_Framework.exe
